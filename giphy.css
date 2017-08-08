@@ -1,0 +1,30 @@
+body{
+    
+    background: linear-gradient(#1e1f21, #144bba);
+    
+}
+
+#movie-form{
+
+display: inline-block;
+position: absolute;
+right: 45px;
+margin: 10px;
+top: 30px;
+background-color:gainsboro;
+border: 1px solid grey;
+    
+}
+
+#buttonContainer{
+    
+margin: 5px;
+margin-right: 50px;
+    
+}
+
+#gifContainer{
+    
+   border: 1 solid black; 
+    
+}
